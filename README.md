@@ -23,6 +23,7 @@
 - Alamofire, Firebase, OpenWeather
 - Versioning with GIT
 - SOLID  
+- SCRUM
   
 
 <br/>  
